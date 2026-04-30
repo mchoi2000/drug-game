@@ -279,8 +279,8 @@ function placeAll() {
         </div>
       )}
 
-      <main className="mx-auto grid max-w-[1800px] grid-cols-[280px_minmax(520px,1fr)] gap-4 overflow-x-auto p-3 sm:p-4 lg:p-5">
-        <aside className="rounded-[1.5rem] border border-white bg-white/85 p-3 shadow-xl shadow-slate-200/70 sm:p-4 lg:sticky lg:top-32 lg:h-[calc(100vh-150px)]">
+      <main className="mx-auto grid max-w-[1400px] min-w-[1000px] grid-cols-[280px_1fr] gap-4 overflow-x-auto p-3 sm:p-4 lg:p-5">
+        <aside className="rounded-[1.5rem] border border-white bg-white/85 p-3 shadow-xl shadow-slate-200/70 sm:p-4">
           <div className="mb-3 flex items-center justify-between">
             <h2 className="font-black text-slate-900">Drug Bank</h2>
             <span className="rounded-full bg-teal-100 px-3 py-1 text-xs font-bold text-teal-600">
@@ -316,7 +316,7 @@ function placeAll() {
           </div>
         </aside>
 
-        <section className="grid grid-cols-1 gap-4 lg:grid-cols-2 2xl:grid-cols-3">
+        <section className="grid grid-cols-2 gap-4 2xl:grid-cols-3">
           {visibleSections.map(s => {
             const ids = placed[s.key] || [];
             const sectionDrugs = ids
