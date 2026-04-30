@@ -1,0 +1,226 @@
+[
+  {
+    "section": "Diabetes – Oral",
+    "brand": "Glucophage",
+    "generic": "metformin",
+    "class": "biguanide",
+    "number": 1
+  },
+  {
+    "section": "Diabetes – Oral",
+    "brand": "Glucotrol",
+    "generic": "glipizide",
+    "class": "sulfonylurea",
+    "number": 2
+  },
+  {
+    "section": "Diabetes – Oral",
+    "brand": "Amaryl",
+    "generic": "glimepiride",
+    "class": "sulfonylurea",
+    "number": 3
+  },
+  {
+    "section": "Diabetes – Oral",
+    "brand": "Actos",
+    "generic": "pioglitazone",
+    "class": "TZD",
+    "number": 4
+  },
+  {
+    "section": "Diabetes – Oral",
+    "brand": "Januvia",
+    "generic": "sitagliptin",
+    "class": "DPP-4",
+    "number": 5
+  },
+  {
+    "section": "Diabetes – Oral",
+    "brand": "Jardiance",
+    "generic": "empagliflozin",
+    "class": "SGLT2",
+    "number": 6
+  },
+  {
+    "section": "Diabetes – GLP-1",
+    "brand": "Trulicity",
+    "generic": "dulaglutide",
+    "class": "GLP-1",
+    "number": 7
+  },
+  {
+    "section": "Diabetes – GLP-1",
+    "brand": "Victoza",
+    "generic": "liraglutide",
+    "class": "GLP-1",
+    "number": 8
+  },
+  {
+    "section": "Diabetes – GLP-1",
+    "brand": "Ozempic / Wegovy / Rybelsus",
+    "generic": "semaglutide",
+    "class": "GLP-1",
+    "number": 9
+  },
+  {
+    "section": "Diabetes – GLP-1",
+    "brand": "Mounjaro / Zepbound",
+    "generic": "tirzepatide",
+    "class": "GLP-1/GIP",
+    "number": 10
+  },
+  {
+    "section": "Insulin",
+    "brand": "NovoLog",
+    "generic": "insulin aspart",
+    "class": "rapid",
+    "number": 11
+  },
+  {
+    "section": "Insulin",
+    "brand": "Humalog",
+    "generic": "insulin lispro",
+    "class": "rapid",
+    "number": 12
+  },
+  {
+    "section": "Insulin",
+    "brand": "Levemir",
+    "generic": "insulin detemir",
+    "class": "long",
+    "number": 13
+  },
+  {
+    "section": "Insulin",
+    "brand": "Lantus",
+    "generic": "insulin glargine",
+    "class": "long",
+    "number": 14
+  },
+  {
+    "section": "Insulin",
+    "brand": "Tresiba",
+    "generic": "insulin degludec",
+    "class": "ultra-long",
+    "number": 15
+  },
+  {
+    "section": "Thyroid",
+    "brand": "Synthroid",
+    "generic": "levothyroxine",
+    "class": "T4",
+    "number": 16
+  },
+  {
+    "section": "Thyroid",
+    "brand": "Armour Thyroid",
+    "generic": "thyroid",
+    "class": "T3/T4",
+    "number": 17
+  },
+  {
+    "section": "Hormones / OCP",
+    "brand": "Estrace / Vivelle-Dot",
+    "generic": "estradiol",
+    "class": "estrogen",
+    "number": 18
+  },
+  {
+    "section": "Hormones / OCP",
+    "brand": "Aygestin",
+    "generic": "norethindrone",
+    "class": "progestin",
+    "number": 19
+  },
+  {
+    "section": "Hormones / OCP",
+    "brand": "Prometrium",
+    "generic": "progesterone",
+    "class": "progestin",
+    "number": 20
+  },
+  {
+    "section": "Hormones / OCP",
+    "brand": "Ortho-Novum",
+    "generic": "ethinyl estradiol + norethindrone",
+    "class": "OCP",
+    "number": 21
+  },
+  {
+    "section": "Hormones / OCP",
+    "brand": "Plan B",
+    "generic": "levonorgestrel",
+    "class": "emergency",
+    "number": 22
+  },
+  {
+    "section": "Hormones / OCP",
+    "brand": "Ortho Tri-Cyclen / Sprintec",
+    "generic": "ethinyl estradiol + norgestimate",
+    "class": "OCP",
+    "number": 23
+  },
+  {
+    "section": "Hormones / OCP",
+    "brand": "Yaz",
+    "generic": "ethinyl estradiol + drospirenone",
+    "class": "OCP",
+    "number": 24
+  },
+  {
+    "section": "Hormones / OCP",
+    "brand": "NuvaRing",
+    "generic": "ethinyl estradiol + etonogestrel",
+    "class": "OCP",
+    "number": 25
+  },
+  {
+    "section": "GU / Urology / Sexual",
+    "brand": "AndroGel",
+    "generic": "testosterone",
+    "class": "androgen",
+    "number": 26
+  },
+  {
+    "section": "GU / Urology / Sexual",
+    "brand": "Proscar / Propecia",
+    "generic": "finasteride",
+    "class": "5α-reductase",
+    "number": 27
+  },
+  {
+    "section": "GU / Urology / Sexual",
+    "brand": "Flomax",
+    "generic": "tamsulosin",
+    "class": "alpha-1 blocker",
+    "number": 28
+  },
+  {
+    "section": "GU / Urology / Sexual",
+    "brand": "Ditropan",
+    "generic": "oxybutynin",
+    "class": "anticholinergic",
+    "number": 29
+  },
+  {
+    "section": "GU / Urology / Sexual",
+    "brand": "Myrbetriq",
+    "generic": "mirabegron",
+    "class": "β3 agonist",
+    "number": 30
+  },
+  {
+    "section": "GU / Urology / Sexual",
+    "brand": "Viagra",
+    "generic": "sildenafil",
+    "class": "PDE-5",
+    "number": 31
+  },
+  {
+    "section": "GU / Urology / Sexual",
+    "brand": "Cialis",
+    "generic": "tadalafil",
+    "class": "PDE-5",
+    "number": 32
+  }
+]

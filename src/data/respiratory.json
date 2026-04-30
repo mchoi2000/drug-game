@@ -1,0 +1,121 @@
+[
+  {
+    "section": "Antihistamines",
+    "brand": "Vistaril",
+    "generic": "hydroxyzine",
+    "class": "1st gen",
+    "number": 1
+  },
+  {
+    "section": "Antihistamines",
+    "brand": "Zyrtec",
+    "generic": "cetirizine",
+    "class": "2nd gen",
+    "number": 2
+  },
+  {
+    "section": "Antihistamines",
+    "brand": "Claritin",
+    "generic": "loratadine",
+    "class": "2nd gen",
+    "number": 3
+  },
+  {
+    "section": "Antihistamines",
+    "brand": "Astelin",
+    "generic": "azelastine",
+    "class": "nasal",
+    "number": 4
+  },
+  {
+    "section": "Leukotriene",
+    "brand": "Singulair",
+    "generic": "montelukast",
+    "class": "LTRA",
+    "number": 5
+  },
+  {
+    "section": "Cough",
+    "brand": "Tessalon Perles",
+    "generic": "benzonatate",
+    "class": "antitussive",
+    "number": 6
+  },
+  {
+    "section": "Bronchodilator (Short acting)",
+    "brand": "ProAir / Ventolin",
+    "generic": "albuterol",
+    "class": "SABA",
+    "number": 7
+  },
+  {
+    "section": "Bronchodilator (Short acting)",
+    "brand": "Combivent / DuoNeb",
+    "generic": "albuterol + ipratropium",
+    "class": "combo",
+    "number": 8
+  },
+  {
+    "section": "Bronchodilator (Long acting)",
+    "brand": "Spiriva",
+    "generic": "tiotropium",
+    "class": "LAMA",
+    "number": 9
+  },
+  {
+    "section": "Steroids (ICS)",
+    "brand": "Flovent",
+    "generic": "fluticasone",
+    "class": "ICS",
+    "number": 10
+  },
+  {
+    "section": "Combo Inhalers",
+    "brand": "Advair",
+    "generic": "fluticasone + salmeterol",
+    "class": "ICS+LABA",
+    "number": 11
+  },
+  {
+    "section": "Combo Inhalers",
+    "brand": "Breo Ellipta",
+    "generic": "fluticasone + vilanterol",
+    "class": "ICS+LABA",
+    "number": 12
+  },
+  {
+    "section": "Combo Inhalers",
+    "brand": "Symbicort",
+    "generic": "budesonide + formoterol",
+    "class": "ICS+LABA",
+    "number": 13
+  },
+  {
+    "section": "Steroids",
+    "brand": "Pulmicort / Rhinocort",
+    "generic": "budesonide",
+    "class": "steroid",
+    "number": 14
+  },
+  {
+    "section": "Steroids",
+    "brand": "Mucinex / Robitussin",
+    "generic": "guaifenesin",
+    "class": "expectorant",
+    "number": 15
+  },
+  {
+    "section": "Steroids",
+    "brand": "Atrovent",
+    "generic": "ipratropium",
+    "class": "SAMA",
+    "number": 16
+  },
+  {
+    "section": "Steroids",
+    "brand": "Nasonex / Elocon",
+    "generic": "mometasone",
+    "class": "steroid",
+    "number": 17
+  }
+]

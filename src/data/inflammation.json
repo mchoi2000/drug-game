@@ -1,0 +1,114 @@
+[
+  {
+    "section": "Steroids",
+    "brand": "Cortizone-10",
+    "generic": "hydrocortisone",
+    "class": "steroid",
+    "number": 1
+  },
+  {
+    "section": "Steroids",
+    "brand": "Deltasone",
+    "generic": "prednisone",
+    "class": "steroid",
+    "number": 2
+  },
+  {
+    "section": "Steroids",
+    "brand": "Orapred",
+    "generic": "prednisolone",
+    "class": "steroid",
+    "number": 3
+  },
+  {
+    "section": "Steroids",
+    "brand": "Medrol",
+    "generic": "methylprednisolone",
+    "class": "steroid",
+    "number": 4
+  },
+  {
+    "section": "Steroids",
+    "brand": "Kenalog",
+    "generic": "triamcinolone",
+    "class": "steroid",
+    "number": 5
+  },
+  {
+    "section": "Steroids",
+    "brand": "Temovate",
+    "generic": "clobetasol",
+    "class": "potent steroid",
+    "number": 6
+  },
+  {
+    "section": "NSAIDs",
+    "brand": "Advil / Motrin",
+    "generic": "ibuprofen",
+    "class": "NSAID",
+    "number": 7
+  },
+  {
+    "section": "NSAIDs",
+    "brand": "Aleve",
+    "generic": "naproxen",
+    "class": "NSAID",
+    "number": 8
+  },
+  {
+    "section": "NSAIDs",
+    "brand": "Mobic",
+    "generic": "meloxicam",
+    "class": "NSAID",
+    "number": 9
+  },
+  {
+    "section": "NSAIDs",
+    "brand": "Celebrex",
+    "generic": "celecoxib",
+    "class": "COX-2",
+    "number": 10
+  },
+  {
+    "section": "NSAIDs",
+    "brand": "Voltaren",
+    "generic": "diclofenac",
+    "class": "NSAID",
+    "number": 11
+  },
+  {
+    "section": "NSAIDs",
+    "brand": "Indocin",
+    "generic": "indomethacin",
+    "class": "NSAID",
+    "number": 12
+  },
+  {
+    "section": "Gout / Bone",
+    "brand": "Zyloprim",
+    "generic": "allopurinol",
+    "class": "gout",
+    "number": 13
+  },
+  {
+    "section": "Gout / Bone",
+    "brand": "Fosamax",
+    "generic": "alendronate",
+    "class": "bone",
+    "number": 14
+  },
+  {
+    "section": "DMARD",
+    "brand": "Plaquenil",
+    "generic": "hydroxychloroquine",
+    "class": "DMARD",
+    "number": 15
+  },
+  {
+    "section": "DMARD",
+    "brand": "Trexall / Otrexup",
+    "generic": "methotrexate",
+    "class": "DMARD",
+    "number": 16
+  }
+]

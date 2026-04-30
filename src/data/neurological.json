@@ -1,0 +1,387 @@
+[
+  {
+    "section": "Antidepressants",
+    "brand": "Zoloft",
+    "generic": "sertraline",
+    "class": "SSRI",
+    "number": 1
+  },
+  {
+    "section": "Antidepressants",
+    "brand": "Prozac",
+    "generic": "fluoxetine",
+    "class": "SSRI",
+    "number": 2
+  },
+  {
+    "section": "Antidepressants",
+    "brand": "Paxil",
+    "generic": "paroxetine",
+    "class": "SSRI",
+    "number": 3
+  },
+  {
+    "section": "Antidepressants",
+    "brand": "Celexa",
+    "generic": "citalopram",
+    "class": "SSRI",
+    "number": 4
+  },
+  {
+    "section": "Antidepressants",
+    "brand": "Lexapro",
+    "generic": "escitalopram",
+    "class": "SSRI",
+    "number": 5
+  },
+  {
+    "section": "Antidepressants",
+    "brand": "Effexor",
+    "generic": "venlafaxine",
+    "class": "SNRI",
+    "number": 6
+  },
+  {
+    "section": "Antidepressants",
+    "brand": "Pristiq",
+    "generic": "desvenlafaxine",
+    "class": "SNRI",
+    "number": 7
+  },
+  {
+    "section": "Antidepressants",
+    "brand": "Cymbalta",
+    "generic": "duloxetine",
+    "class": "SNRI",
+    "number": 8
+  },
+  {
+    "section": "Antidepressants",
+    "brand": "Elavil",
+    "generic": "amitriptyline",
+    "class": "TCA",
+    "number": 9
+  },
+  {
+    "section": "Antidepressants",
+    "brand": "Pamelor",
+    "generic": "nortriptyline",
+    "class": "TCA",
+    "number": 10
+  },
+  {
+    "section": "Antidepressants",
+    "brand": "Remeron",
+    "generic": "mirtazapine",
+    "class": "NaSSA",
+    "number": 11
+  },
+  {
+    "section": "Antidepressants",
+    "brand": "Desyrel",
+    "generic": "trazodone",
+    "class": "SARI",
+    "number": 12
+  },
+  {
+    "section": "Antidepressants",
+    "brand": "Wellbutrin",
+    "generic": "bupropion",
+    "class": "NDRI",
+    "number": 13
+  },
+  {
+    "section": "Antipsychotics / Mood",
+    "brand": "Abilify",
+    "generic": "aripiprazole",
+    "class": "Atypical Antipsychotic",
+    "number": 14
+  },
+  {
+    "section": "Antipsychotics / Mood",
+    "brand": "Zyprexa",
+    "generic": "olanzapine",
+    "class": "Atypical Antipsychotic",
+    "number": 15
+  },
+  {
+    "section": "Antipsychotics / Mood",
+    "brand": "Seroquel",
+    "generic": "quetiapine",
+    "class": "Atypical Antipsychotic",
+    "number": 16
+  },
+  {
+    "section": "Antipsychotics / Mood",
+    "brand": "Risperdal",
+    "generic": "risperidone",
+    "class": "Atypical Antipsychotic",
+    "number": 17
+  },
+  {
+    "section": "Antipsychotics / Mood",
+    "brand": "Lithobid",
+    "generic": "lithium",
+    "class": "Mood Stabilizer",
+    "number": 18
+  },
+  {
+    "section": "Anticonvulsants",
+    "brand": "Lamictal",
+    "generic": "lamotrigine",
+    "class": "Na⁺ Channel Blocker",
+    "number": 19
+  },
+  {
+    "section": "Anticonvulsants",
+    "brand": "Depakote",
+    "generic": "divalproex",
+    "class": "GABA Enhancer",
+    "number": 20
+  },
+  {
+    "section": "Anticonvulsants",
+    "brand": "Topamax",
+    "generic": "topiramate",
+    "class": "Multiple",
+    "number": 21
+  },
+  {
+    "section": "Anticonvulsants",
+    "brand": "Tegretol",
+    "generic": "carbamazepine",
+    "class": "Na⁺ Channel Blocker",
+    "number": 22
+  },
+  {
+    "section": "Anticonvulsants",
+    "brand": "Trileptal",
+    "generic": "oxcarbazepine",
+    "class": "Na⁺ Channel Blocker",
+    "number": 23
+  },
+  {
+    "section": "Anticonvulsants",
+    "brand": "Keppra",
+    "generic": "levetiracetam",
+    "class": "SV2A Modulator",
+    "number": 24
+  },
+  {
+    "section": "Anticonvulsants",
+    "brand": "Neurontin",
+    "generic": "gabapentin",
+    "class": "Ca²⁺ Channel Blocker",
+    "number": 25
+  },
+  {
+    "section": "Anticonvulsants",
+    "brand": "Lyrica",
+    "generic": "pregabalin",
+    "class": "Ca²⁺ Channel Blocker",
+    "number": 26
+  },
+  {
+    "section": "Anxiety / Sedatives",
+    "brand": "Buspar",
+    "generic": "buspirone",
+    "class": "Anxiolytic (5-HT1A)",
+    "number": 27
+  },
+  {
+    "section": "Anxiety / Sedatives",
+    "brand": "Xanax",
+    "generic": "alprazolam",
+    "class": "Benzodiazepine",
+    "number": 28
+  },
+  {
+    "section": "Anxiety / Sedatives",
+    "brand": "Klonopin",
+    "generic": "clonazepam",
+    "class": "Benzodiazepine",
+    "number": 29
+  },
+  {
+    "section": "Anxiety / Sedatives",
+    "brand": "Ativan",
+    "generic": "lorazepam",
+    "class": "Benzodiazepine",
+    "number": 30
+  },
+  {
+    "section": "Anxiety / Sedatives",
+    "brand": "Valium",
+    "generic": "diazepam",
+    "class": "Benzodiazepine",
+    "number": 31
+  },
+  {
+    "section": "Anxiety / Sedatives",
+    "brand": "Ambien",
+    "generic": "zolpidem",
+    "class": "Non-BZD Hypnotic",
+    "number": 32
+  },
+  {
+    "section": "CNS Stimulants",
+    "brand": "Adderall",
+    "generic": "amphetamine + dextroamphetamine",
+    "class": "CNS Stimulant",
+    "number": 33
+  },
+  {
+    "section": "CNS Stimulants",
+    "brand": "Ritalin / Concerta",
+    "generic": "methylphenidate",
+    "class": "CNS Stimulant",
+    "number": 34
+  },
+  {
+    "section": "CNS Stimulants",
+    "brand": "Focalin",
+    "generic": "dexmethylphenidate",
+    "class": "CNS Stimulant",
+    "number": 35
+  },
+  {
+    "section": "CNS Stimulants",
+    "brand": "Vyvanse",
+    "generic": "lisdexamfetamine",
+    "class": "CNS Stimulant (Prodrug)",
+    "number": 36
+  },
+  {
+    "section": "Muscle Relaxants / Pain",
+    "brand": "Lioresal",
+    "generic": "baclofen",
+    "class": "Muscle Relaxant",
+    "number": 37
+  },
+  {
+    "section": "Muscle Relaxants / Pain",
+    "brand": "Flexeril",
+    "generic": "cyclobenzaprine",
+    "class": "Muscle Relaxant",
+    "number": 38
+  },
+  {
+    "section": "Muscle Relaxants / Pain",
+    "brand": "Zanaflex",
+    "generic": "tizanidine",
+    "class": "Alpha-2 Agonist",
+    "number": 39
+  },
+  {
+    "section": "Muscle Relaxants / Pain",
+    "brand": "Robaxin",
+    "generic": "methocarbamol",
+    "class": "Muscle Relaxant",
+    "number": 40
+  },
+  {
+    "section": "Muscle Relaxants / Pain",
+    "brand": "Tylenol",
+    "generic": "acetaminophen",
+    "class": "Analgesic",
+    "number": 41
+  },
+  {
+    "section": "Opioids",
+    "brand": "Ultram",
+    "generic": "tramadol",
+    "class": "Atypical Opioid",
+    "number": 42
+  },
+  {
+    "section": "Opioids",
+    "brand": "MS Contin",
+    "generic": "morphine",
+    "class": "Opioid Agonist",
+    "number": 43
+  },
+  {
+    "section": "Opioids",
+    "brand": "OxyContin",
+    "generic": "oxycodone",
+    "class": "Opioid Agonist",
+    "number": 44
+  },
+  {
+    "section": "Opioids",
+    "brand": "Percocet",
+    "generic": "oxycodone + acetaminophen",
+    "class": "Combo",
+    "number": 45
+  },
+  {
+    "section": "Opioids",
+    "brand": "Norco / Vicodin",
+    "generic": "hydrocodone + acetaminophen",
+    "class": "Combo",
+    "number": 46
+  },
+  {
+    "section": "Opioids",
+    "brand": "Tylenol #3",
+    "generic": "codeine + acetaminophen",
+    "class": "Combo",
+    "number": 47
+  },
+  {
+    "section": "Opioids",
+    "brand": "Suboxone",
+    "generic": "buprenorphine + naloxone",
+    "class": "Partial Agonist",
+    "number": 48
+  },
+  {
+    "section": "Migraine",
+    "brand": "Imitrex",
+    "generic": "sumatriptan",
+    "class": "Triptan",
+    "number": 49
+  },
+  {
+    "section": "Migraine",
+    "brand": "Maxalt",
+    "generic": "rizatriptan",
+    "class": "Triptan",
+    "number": 50
+  },
+  {
+    "section": "Parkinson’s",
+    "brand": "Mirapex",
+    "generic": "pramipexole",
+    "class": "Dopamine Agonist",
+    "number": 51
+  },
+  {
+    "section": "Parkinson’s",
+    "brand": "Requip",
+    "generic": "ropinirole",
+    "class": "Dopamine Agonist",
+    "number": 52
+  },
+  {
+    "section": "Parkinson’s",
+    "brand": "Sinemet",
+    "generic": "carbidopa + levodopa",
+    "class": "Antiparkinson",
+    "number": 53
+  },
+  {
+    "section": "Alzheimer’s",
+    "brand": "Aricept",
+    "generic": "donepezil",
+    "class": "AChE Inhibitor",
+    "number": 54
+  },
+  {
+    "section": "Alzheimer’s",
+    "brand": "Namenda",
+    "generic": "memantine",
+    "class": "NMDA Antagonist",
+    "number": 55
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "section": "ACE Inhibitors",
+    "brand": "Lotensin",
+    "generic": "benazepril",
+    "class": "ACEi",
+    "number": 1
+  },
+  {
+    "section": "ACE Inhibitors",
+    "brand": "Zestril / Prinivil",
+    "generic": "lisinopril",
+    "class": "ACEi",
+    "number": 2
+  },
+  {
+    "section": "ACE Inhibitors",
+    "brand": "Zestoretic",
+    "generic": "lisinopril + hctz",
+    "class": "ACEi combo",
+    "number": 3
+  },
+  {
+    "section": "ARBs",
+    "brand": "Benicar",
+    "generic": "olmesartan",
+    "class": "ARB",
+    "number": 4
+  },
+  {
+    "section": "ARBs",
+    "brand": "Diovan",
+    "generic": "valsartan",
+    "class": "ARB",
+    "number": 5
+  },
+  {
+    "section": "ARBs",
+    "brand": "Avapro",
+    "generic": "irbesartan",
+    "class": "ARB",
+    "number": 6
+  },
+  {
+    "section": "ARBs",
+    "brand": "Cozaar",
+    "generic": "losartan",
+    "class": "ARB",
+    "number": 7
+  },
+  {
+    "section": "ARBs",
+    "brand": "Hyzaar",
+    "generic": "losartan + hctz",
+    "class": "ARB combo",
+    "number": 8
+  },
+  {
+    "section": "Beta Blockers",
+    "brand": "Lopressor / Toprol",
+    "generic": "metoprolol",
+    "class": "β1",
+    "number": 14
+  },
+  {
+    "section": "Beta Blockers",
+    "brand": "Tenormin",
+    "generic": "atenolol",
+    "class": "β1",
+    "number": 15
+  },
+  {
+    "section": "Beta Blockers",
+    "brand": "Inderal",
+    "generic": "propranolol",
+    "class": "non-selective",
+    "number": 16
+  },
+  {
+    "section": "Beta Blockers",
+    "brand": "Coreg",
+    "generic": "carvedilol",
+    "class": "α/β",
+    "number": 17
+  },
+  {
+    "section": "Calcium Channel Blockers",
+    "brand": "Cardizem",
+    "generic": "diltiazem",
+    "class": "non-DHP",
+    "number": 18
+  },
+  {
+    "section": "Calcium Channel Blockers",
+    "brand": "Calan",
+    "generic": "verapamil",
+    "class": "non-DHP",
+    "number": 19
+  },
+  {
+    "section": "Calcium Channel Blockers",
+    "brand": "Norvasc",
+    "generic": "amlodipine",
+    "class": "DHP",
+    "number": 20
+  },
+  {
+    "section": "Calcium Channel Blockers",
+    "brand": "Procardia",
+    "generic": "nifedipine",
+    "class": "DHP",
+    "number": 21
+  },
+  {
+    "section": "Alpha / Central",
+    "brand": "Cardura",
+    "generic": "doxazosin",
+    "class": "α1 blocker",
+    "number": 22
+  },
+  {
+    "section": "Alpha / Central",
+    "brand": "Minipress",
+    "generic": "prazosin",
+    "class": "α1 blocker",
+    "number": 23
+  },
+  {
+    "section": "Alpha / Central",
+    "brand": "Catapres",
+    "generic": "clonidine",
+    "class": "α2 agonist",
+    "number": 24
+  },
+  {
+    "section": "Diuretics",
+    "brand": "Lasix",
+    "generic": "furosemide",
+    "class": "loop",
+    "number": 9
+  },
+  {
+    "section": "Diuretics",
+    "brand": "Aldactone",
+    "generic": "spironolactone",
+    "class": "K-sparing",
+    "number": 10
+  },
+  {
+    "section": "Diuretics",
+    "brand": "Thalitone",
+    "generic": "chlorthalidone",
+    "class": "thiazide",
+    "number": 11
+  },
+  {
+    "section": "Diuretics",
+    "brand": "Microzide",
+    "generic": "hydrochlorothiazide",
+    "class": "thiazide",
+    "number": 12
+  },
+  {
+    "section": "Diuretics",
+    "brand": "Maxzide / Dyazide",
+    "generic": "triamterene + hctz",
+    "class": "combo",
+    "number": 13
+  },
+  {
+    "section": "Vasodilator / Cardiac",
+    "brand": "Apresoline",
+    "generic": "hydralazine",
+    "class": "vasodilator",
+    "number": 25
+  },
+  {
+    "section": "Vasodilator / Cardiac",
+    "brand": "Lanoxin",
+    "generic": "digoxin",
+    "class": "cardiac glycoside",
+    "number": 26
+  },
+  {
+    "section": "Antiarrhythmics",
+    "brand": "Cordarone",
+    "generic": "amiodarone",
+    "class": "class III",
+    "number": 27
+  },
+  {
+    "section": "Antiarrhythmics",
+    "brand": "Tambocor",
+    "generic": "flecainide",
+    "class": "class IC",
+    "number": 28
+  },
+  {
+    "section": "Nitrates",
+    "brand": "Nitrostat",
+    "generic": "nitroglycerin",
+    "class": "nitrate",
+    "number": 29
+  },
+  {
+    "section": "Nitrates",
+    "brand": "Imdur",
+    "generic": "isosorbide mononitrate",
+    "class": "nitrate",
+    "number": 30
+  },
+  {
+    "section": "Anticoagulants / Antiplatelet",
+    "brand": "Eliquis",
+    "generic": "apixaban",
+    "class": "DOAC",
+    "number": 31
+  },
+  {
+    "section": "Anticoagulants / Antiplatelet",
+    "brand": "Xarelto",
+    "generic": "rivaroxaban",
+    "class": "DOAC",
+    "number": 32
+  },
+  {
+    "section": "Anticoagulants / Antiplatelet",
+    "brand": "Coumadin",
+    "generic": "warfarin",
+    "class": "VKA",
+    "number": 33
+  },
+  {
+    "section": "Anticoagulants / Antiplatelet",
+    "brand": "Plavix",
+    "generic": "clopidogrel",
+    "class": "antiplatelet",
+    "number": 34
+  },
+  {
+    "section": "Anticoagulants / Antiplatelet",
+    "brand": "Ecotrin",
+    "generic": "aspirin",
+    "class": "antiplatelet",
+    "number": 35
+  },
+  {
+    "section": "Statins",
+    "brand": "Lipitor",
+    "generic": "atorvastatin",
+    "class": "statin",
+    "number": 36
+  },
+  {
+    "section": "Statins",
+    "brand": "Crestor",
+    "generic": "rosuvastatin",
+    "class": "statin",
+    "number": 37
+  },
+  {
+    "section": "Statins",
+    "brand": "Zocor",
+    "generic": "simvastatin",
+    "class": "statin",
+    "number": 38
+  },
+  {
+    "section": "Statins",
+    "brand": "Mevacor",
+    "generic": "lovastatin",
+    "class": "statin",
+    "number": 39
+  },
+  {
+    "section": "Statins",
+    "brand": "Pravachol",
+    "generic": "pravastatin",
+    "class": "statin",
+    "number": 40
+  },
+  {
+    "section": "Lipid / Others",
+    "brand": "Lopid",
+    "generic": "gemfibrozil",
+    "class": "fibrate",
+    "number": 41
+  },
+  {
+    "section": "Lipid / Others",
+    "brand": "Tricor",
+    "generic": "fenofibrate",
+    "class": "fibrate",
+    "number": 42
+  },
+  {
+    "section": "Lipid / Others",
+    "brand": "Zetia",
+    "generic": "ezetimibe",
+    "class": "cholesterol absorption",
+    "number": 43
+  },
+  {
+    "section": "Lipid / Others",
+    "brand": "Lovaza",
+    "generic": "omega-3-acid ethyl esters",
+    "class": "omega-3",
+    "number": 44
+  },
+  {
+    "section": "Heart Failure / Special",
+    "brand": "Entresto",
+    "generic": "sacubitril + valsartan",
+    "class": "ARNI",
+    "number": 45
+  },
+  {
+    "section": "Anticoagulant (direct)",
+    "brand": "Pradaxa",
+    "generic": "dabigatran",
+    "class": "direct thrombin",
+    "number": 46
+  },
+  {
+    "section": "Antianginal / Peripheral",
+    "brand": "Ranexa",
+    "generic": "ranolazine",
+    "class": "antianginal",
+    "number": 47
+  },
+  {
+    "section": "Antianginal / Peripheral",
+    "brand": "Pletal",
+    "generic": "cilostazol",
+    "class": "PDE3 inhibitor",
+    "number": 48
+  }
+]

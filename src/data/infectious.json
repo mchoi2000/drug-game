@@ -1,0 +1,114 @@
+[
+  {
+    "section": "Penicillins",
+    "brand": "Amoxil",
+    "generic": "amoxicillin",
+    "class": "penicillin",
+    "number": 1
+  },
+  {
+    "section": "Penicillins",
+    "brand": "Augmentin",
+    "generic": "amoxicillin + clavulanate",
+    "class": "penicillin combo",
+    "number": 2
+  },
+  {
+    "section": "Cephalosporin",
+    "brand": "Keflex",
+    "generic": "cephalexin",
+    "class": "1st gen ceph",
+    "number": 3
+  },
+  {
+    "section": "Tetracycline",
+    "brand": "Vibramycin",
+    "generic": "doxycycline",
+    "class": "tetracycline",
+    "number": 4
+  },
+  {
+    "section": "Macrolide / Lincosamide",
+    "brand": "Zithromax",
+    "generic": "azithromycin",
+    "class": "macrolide",
+    "number": 5
+  },
+  {
+    "section": "Macrolide / Lincosamide",
+    "brand": "Cleocin",
+    "generic": "clindamycin",
+    "class": "lincosamide",
+    "number": 6
+  },
+  {
+    "section": "Fluoroquinolone / Nitroimidazole",
+    "brand": "Cipro",
+    "generic": "ciprofloxacin",
+    "class": "fluoroquinolone",
+    "number": 7
+  },
+  {
+    "section": "Fluoroquinolone / Nitroimidazole",
+    "brand": "Flagyl",
+    "generic": "metronidazole",
+    "class": "nitroimidazole",
+    "number": 8
+  },
+  {
+    "section": "Sulfa / Urinary",
+    "brand": "Bactrim / Septra",
+    "generic": "sulfamethoxazole + trimethoprim",
+    "class": "sulfa combo",
+    "number": 9
+  },
+  {
+    "section": "Sulfa / Urinary",
+    "brand": "Macrobid",
+    "generic": "nitrofurantoin",
+    "class": "urinary antibiotic",
+    "number": 10
+  },
+  {
+    "section": "Antifungal",
+    "brand": "Diflucan",
+    "generic": "fluconazole",
+    "class": "azole",
+    "number": 11
+  },
+  {
+    "section": "Antifungal",
+    "brand": "Nizoral",
+    "generic": "ketoconazole",
+    "class": "azole",
+    "number": 12
+  },
+  {
+    "section": "Antiviral",
+    "brand": "Zovirax",
+    "generic": "acyclovir",
+    "class": "antiviral",
+    "number": 13
+  },
+  {
+    "section": "Antiviral",
+    "brand": "Valtrex",
+    "generic": "valacyclovir",
+    "class": "prodrug",
+    "number": 14
+  },
+  {
+    "section": "Antiviral",
+    "brand": "Tamiflu",
+    "generic": "oseltamivir",
+    "class": "neuraminidase inhibitor",
+    "number": 15
+  },
+  {
+    "section": "Antiviral",
+    "brand": "Paxlovid",
+    "generic": "nirmatrelvir + ritonavir",
+    "class": "covid antiviral",
+    "number": 16
+  }
+]
