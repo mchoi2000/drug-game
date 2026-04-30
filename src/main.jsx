@@ -391,13 +391,6 @@ function placeAll() {
           })}
         </section>
       </main>
-
-      {visibleDrugs.length > 0 && visiblePlacedCount === visibleDrugs.length && (
-        <div className="fixed bottom-5 left-1/2 z-40 -translate-x-1/2 rounded-3xl bg-emerald-600 px-6 py-3 font-black text-white shadow-2xl">
-          <Trophy className="mr-2 inline" />
-          Completed!
-        </div>
-      )}
     </div>
   );
 }
